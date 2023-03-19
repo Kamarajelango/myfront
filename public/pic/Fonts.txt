@@ -1,0 +1,9 @@
+Fonts used in this design:
+
+Font: Pompiere 
+Author: Sorkin Type Co
+Url: http://www.fontsquirrel.com/fonts/pompiere
+
+Font: Quicksand
+Author: Andrew Paglinawan
+Url: http://www.fontsquirrel.com/fonts/quicksand
